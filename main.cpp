@@ -24,10 +24,10 @@ int main()
         cout << "Substraction:\n" << a << " - " << b << " = " << Substraction(a,b) << endl;
         break;
     case 3:
-        cout << "Function in development" << endl;
+        cout << "Multiplication:\n" << a << " * " << b << " = " << Multiplication(a,b) << endl;
         break;
     case 4:
-        cout << "Function in development" << endl;
+        cout << "Division:\n" << a << "/" << b << " = " << Division(a,b) << endl;
         break;
     default:
         cout << "Error. Wrong choice!" << endl;
