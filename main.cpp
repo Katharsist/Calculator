@@ -27,7 +27,7 @@ int main()
         cout << "Multiplication:\n" << a << " * " << b << " = " << Multiplication(a,b) << endl;
         break;
     case 4:
-        cout << "Function in development" << endl;
+        cout << "Division:\n" << a << "/" << b << " = " << Division(a,b) << endl;
         break;
     default:
         cout << "Error. Wrong choice!" << endl;
