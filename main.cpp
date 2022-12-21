@@ -21,7 +21,7 @@ int main()
         cout << "Addition:\n" << a << " + " << b << " = " << Addition(a,b) << endl;
         break;
     case 2:
-        cout << "Function in development" << endl;
+        cout << "Substraction:\n" << a << " - " << b << " = " << Substraction(a,b) << endl;
         break;
     case 3:
         cout << "Function in development" << endl;
